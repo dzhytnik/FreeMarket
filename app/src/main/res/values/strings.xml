@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">FreeMarket</string>
+
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="login_title">Войти</string>
+    <string name="logout_title">Выход</string>
+    <string name="add_a_comment">Обратная связь</string>
+    <string name="create_act">Зарегистрироваться</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="find_a_good">"Найти продукцию"</string>
+    <string name="start_a_sale">"Предложить товар"</string>
+    <string name="forgot_password">"Забыли пароль?"</string>
+    <string name="create_account">"Создать аккаунт"</string>
+    <string name="forgot_password_caption">"Введите адрес электронной почты. Ссылка для сброса пароля будет отправлена на указанный Вами адрес"</string>
+    <string name="forgot_password_button">"Отправить ссылку"</string>
+    <string name="forgot_password_message">"Перейдите по ссылке отправленной на Вашу почту для активации нового пароля"</string>
+    <string name="find_a_good_caption">"Выберите категорию товара"</string>
+    <string name="find_a_good_button_caption">"Найти продукцию"</string>
+    <string name="find_a_good_search_my_county">"Искать в моем городе"</string>
+    <string name="start_a_sale_caption">"Выберите категорию товара"</string>
+    <string name="start_a_sale_button_caption">"Предложить товар"</string>
+    <string name="sale_created_message">"Ваше предложение было опубликовано"</string>
+    <string name="sale_creation_error_message">"Произошла ошибка. Обратитесь в службу поддержки"</string>
+    <string name="create_act_name_hint">"Имя"</string>
+    <string name="create_act_surname_hint">"Фамилия"</string>
+    <string name="create_act_phone_hint">"Мобильный телефон"</string>
+    <string name="create_act_email_hint">"Email"</string>
+    <string name="create_act_pwd_hint">"Пароль"</string>
+    <string name="create_act_confirm_pwd_hint">"Подтверждение пароля"</string>
+    <string name="validation_field_should_not_be_empty">"Поле не должно быть пустым"</string>
+    <string name="validation_passwords_should_match">"Пароли не совпадают"</string>
+    <string name="verification_email_sent">"Письмо с подтверждением было отправлено на адрес "</string>
+
+
+    <string-array name="categories_array">
+        <item>Мясо</item>
+        <item>Молоко</item>
+        <item>Овощи</item>
+        <item>Фрукты</item>
+        <item>Мёд</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

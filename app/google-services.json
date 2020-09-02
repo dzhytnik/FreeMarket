@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "398100685939",
+    "firebase_url": "https://freemarket-118f1.firebaseio.com",
+    "project_id": "freemarket-118f1",
+    "storage_bucket": "freemarket-118f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398100685939:android:f1dc1a69b5d7ae458af606",
+        "android_client_info": {
+          "package_name": "com.zhytnik.freemarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398100685939-t44t1lu35f41rblhdvmojecod040lu7v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zhytnik.freemarket",
+            "certificate_hash": "b9b5fca4c3f8e519bc6b5566b65fe1f445d4c219"
+          }
+        },
+        {
+          "client_id": "398100685939-rmjfe7nbo6gbusiia71stoshgu0ef457.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvBIf3lNHZIR2sHsNr2E-T0RljO61e8bI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398100685939-rmjfe7nbo6gbusiia71stoshgu0ef457.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
